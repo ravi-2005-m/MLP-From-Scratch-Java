@@ -235,6 +235,7 @@ More importantly, it transformed neural networks from a theoretical concept into
 
 ## Author
 **Ravikumar M**
+
 *Aspiring Java Backend Engineer with AI Knowledge*
 Built as part of my journey to understand Machine Learning from first principles by implementing core neural network concepts manually in Java.
 
